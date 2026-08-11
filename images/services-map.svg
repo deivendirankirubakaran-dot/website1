@@ -1,0 +1,15 @@
+<svg viewBox="0 0 480 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tsv1 dsv1">
+  <title id="tsv1">Line illustration of a route map linking several destinations</title>
+  <desc id="dsv1">A gold dashed route connecting pins for airport, temple, hotel and wedding-hall stops, representing the range of rental services</desc>
+  <path d="M40 340 Q120 300 150 240 T260 170 Q320 140 430 90" fill="none" stroke="#B7943F" stroke-width="1.4" stroke-dasharray="2 10" opacity="0.75"/>
+  <g fill="none" stroke="#8A6B2E" stroke-width="2">
+    <path d="M40 320 a18 18 0 1 1 0.01 0 Z" />
+    <path d="M150 220 a18 18 0 1 1 0.01 0 Z" />
+    <path d="M260 150 a18 18 0 1 1 0.01 0 Z" />
+    <path d="M430 70 a18 18 0 1 1 0.01 0 Z" />
+  </g>
+  <circle cx="40" cy="320" r="5" fill="#B7943F"/>
+  <circle cx="150" cy="220" r="5" fill="#B7943F"/>
+  <circle cx="260" cy="150" r="5" fill="#B7943F"/>
+  <circle cx="430" cy="70" r="5" fill="#B7943F"/>
+</svg>

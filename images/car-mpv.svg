@@ -1,0 +1,11 @@
+<svg viewBox="0 0 300 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tm1">
+  <title id="tm1">Line illustration of a family MPV body</title>
+  <path d="M10 100 Q10 50 56 48 L232 48 Q284 50 288 100 L288 110 Q288 120 278 120 L262 120 Q255 136 238 136 Q221 136 214 120 L94 120 Q87 136 70 136 Q53 136 46 120 L20 120 Q10 120 10 110 Z"
+    fill="none" stroke="#8A6B2E" stroke-width="2.2"/>
+  <line x1="118" y1="48" x2="112" y2="120" stroke="#8A6B2E" stroke-width="1.4"/>
+  <line x1="196" y1="48" x2="196" y2="120" stroke="#8A6B2E" stroke-width="1.4"/>
+  <circle cx="70" cy="120" r="19" fill="none" stroke="#B7943F" stroke-width="2.4"/>
+  <circle cx="238" cy="120" r="19" fill="none" stroke="#B7943F" stroke-width="2.4"/>
+  <circle cx="70" cy="120" r="4.5" fill="#B7943F"/>
+  <circle cx="238" cy="120" r="4.5" fill="#B7943F"/>
+</svg>

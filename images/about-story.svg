@@ -1,0 +1,18 @@
+<svg viewBox="0 0 480 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ta1 da1">
+  <title id="ta1">Line illustration of a steering wheel and ignition key</title>
+  <desc id="da1">A gold line drawing symbolising careful, experienced driving and dependable service</desc>
+  <circle cx="240" cy="190" r="130" fill="none" stroke="#B7943F" stroke-width="2"/>
+  <circle cx="240" cy="190" r="92" fill="none" stroke="#8A6B2E" stroke-width="1.6"/>
+  <circle cx="240" cy="190" r="22" fill="none" stroke="#B7943F" stroke-width="2.4"/>
+  <line x1="240" y1="98" x2="240" y2="168" stroke="#8A6B2E" stroke-width="2"/>
+  <line x1="166" y1="235" x2="220" y2="205" stroke="#8A6B2E" stroke-width="2"/>
+  <line x1="314" y1="235" x2="260" y2="205" stroke="#8A6B2E" stroke-width="2"/>
+  <g transform="translate(150,320)">
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#B7943F" stroke-width="2.2"/>
+    <circle cx="0" cy="0" r="8" fill="none" stroke="#B7943F" stroke-width="1.6"/>
+    <line x1="20" y1="0" x2="90" y2="0" stroke="#B7943F" stroke-width="2.2"/>
+    <line x1="70" y1="0" x2="70" y2="14" stroke="#B7943F" stroke-width="2.2"/>
+    <line x1="86" y1="0" x2="86" y2="10" stroke="#B7943F" stroke-width="2.2"/>
+  </g>
+  <path d="M60 380 H420" stroke="#B7943F" stroke-width="1" stroke-dasharray="2 9" opacity="0.6"/>
+</svg>

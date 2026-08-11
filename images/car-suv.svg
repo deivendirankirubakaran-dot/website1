@@ -1,0 +1,11 @@
+<svg viewBox="0 0 300 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tv1">
+  <title id="tv1">Line illustration of an SUV body</title>
+  <path d="M8 100 Q10 58 60 54 Q78 24 150 22 Q216 22 244 54 Q296 58 296 100 L296 110 Q296 120 286 120 L266 120 Q259 136 242 136 Q225 136 218 120 L92 120 Q85 136 68 136 Q51 136 44 120 L18 120 Q8 120 8 110 Z"
+    fill="none" stroke="#8A6B2E" stroke-width="2.2"/>
+  <path d="M64 54 Q76 30 150 28 Q210 28 232 54 Z" fill="none" stroke="#8A6B2E" stroke-width="1.8"/>
+  <line x1="128" y1="28" x2="122" y2="54" stroke="#8A6B2E" stroke-width="1.2"/>
+  <circle cx="72" cy="120" r="19" fill="none" stroke="#B7943F" stroke-width="2.4"/>
+  <circle cx="240" cy="120" r="19" fill="none" stroke="#B7943F" stroke-width="2.4"/>
+  <circle cx="72" cy="120" r="4.5" fill="#B7943F"/>
+  <circle cx="240" cy="120" r="4.5" fill="#B7943F"/>
+</svg>
